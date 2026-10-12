@@ -1,0 +1,5 @@
+# جلوگیری از دسترسی مستقیم به پایگاه داده و فایل‌های داخلی (Apache)
+<FilesMatch "\.(sqlite|db)$">
+    Require all denied
+</FilesMatch>
+Options -Indexes
