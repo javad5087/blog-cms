@@ -26,3 +26,8 @@
 
 ### بنر سایت
 از منوی مدیریت، گزینهٔ «بنر سایت» را باز کنید تا تصویر بنر را تغییر دهید. تصویر پیش‌فرض `uploads/site-banner.jpg` است. در صفحهٔ هر نوشته، تصویر شاخص همان نوشته به‌عنوان بنر نمایش داده می‌شود؛ اگر تصویر شاخص وجود نداشته باشد، بنر پیش‌فرض نمایش داده خواهد شد.
+
+
+![screen1](https://github.com/javad5087/blog-cms/blob/main/screen1.png)
+![screen2](https://github.com/javad5087/blog-cms/blob/main/screen2.png)
+![screen3](https://github.com/javad5087/blog-cms/blob/main/screen3.png)
